@@ -1,8 +1,10 @@
 body {
   font-family: Verdana, sans-serif;
   text-align: center;
+  color: white;
+  background-color: black;
 }
 
 h1 {
-  text-align: center;
+
 }
